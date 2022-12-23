@@ -1,6 +1,6 @@
 # NIRF-University-Analysis
 
-University Score Prediction and Recommendation based on NIRF (Ministry of Education)
+## University Score Prediction and Recommendation based on NIRF (Ministry of Education)
 
 ### Objective
 
@@ -40,7 +40,8 @@ Features
 
 Labels
 
-Score - 83.57
+- Score - 83.57
+
 (For Recommendation)
 
 Features
@@ -54,7 +55,7 @@ Features
 
 Labels
 
-Recommend - 1
+- Recommend - 1
 
 
 ## Software Requirements
