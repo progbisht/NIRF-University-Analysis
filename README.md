@@ -32,11 +32,12 @@ Model accepts the scores obtained by universities under the parameters as a inpu
 
 Features
 
-TLR(100) - 82.08
-RPC(100) - 87.45
-GO(100) - 84.80
-OI(100) - 57.46
-PERCEPTION(100) - 100.00
+- TLR(100) - 82.08
+- RPC(100) - 87.45
+- GO(100) - 84.80
+- OI(100) - 57.46
+- PERCEPTION(100) - 100.00
+
 Labels
 
 Score - 83.57
@@ -44,12 +45,13 @@ Score - 83.57
 
 Features
 
-TLR(100) - 82.08
-RPC(100) - 87.45
-GO(100) - 84.80
-OI(100) - 57.46
-PERCEPTION(100) - 100.00
-Score - 83.57
+- TLR(100) - 82.08
+- RPC(100) - 87.45
+- GO(100) - 84.80
+- OI(100) - 57.46
+- PERCEPTION(100) - 100.00
+- Score - 83.57
+
 Labels
 
 Recommend - 1
@@ -60,9 +62,11 @@ Recommend - 1
 ### Languages and Packages used
 
 ● Python3.6+ , Libraries - pandas, sklearn, bs4, matplotlib
+
 ● Platform - Google Colab
 
 ### Hardware Requirements
 
 ● System Processor: i3 or later.
+
 ● RAM: 4GB DDR RAM.(Minimum)
